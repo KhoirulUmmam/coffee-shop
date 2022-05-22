@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Models\User;
 use Spatie\Permission\Models\Role;
-User DB;
+Use DB;
 use Hash;
 use Illuminate\Support\Arr;
 
